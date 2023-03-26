@@ -16,7 +16,7 @@ root.render(
       name="og:description"
       content="Little Lemon Restaurant is a food restaurant which offers delicoious food to its' customers"
     />
-    <meta name="og:image" content="" />
+    <meta name="og:image " content="" />
     <App />
   </React.StrictMode>
 );
